@@ -1,9 +1,9 @@
 {
+  "homepage": "http://argebarge.github.io/github_page",
+
   "name": "github_page",
   "version": "0.1.0",
   "private": true,
-
-  "homepage": "http://argebarge.github.io/github_page",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
