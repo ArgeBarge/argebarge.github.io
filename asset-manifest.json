@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github_page/static/css/main.f855e6bc.css",
-    "main.js": "/github_page/static/js/main.f2a06740.js",
-    "static/js/453.68f5290a.chunk.js": "/github_page/static/js/453.68f5290a.chunk.js",
-    "static/media/logo.svg": "/github_page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github_page/index.html",
-    "main.f855e6bc.css.map": "/github_page/static/css/main.f855e6bc.css.map",
-    "main.f2a06740.js.map": "/github_page/static/js/main.f2a06740.js.map",
-    "453.68f5290a.chunk.js.map": "/github_page/static/js/453.68f5290a.chunk.js.map"
+    "main.css": "/argebarge.github.io/github_page/static/css/main.f855e6bc.css",
+    "main.js": "/argebarge.github.io/github_page/static/js/main.be41ed14.js",
+    "static/js/453.68f5290a.chunk.js": "/argebarge.github.io/github_page/static/js/453.68f5290a.chunk.js",
+    "static/media/logo.svg": "/argebarge.github.io/github_page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/argebarge.github.io/github_page/index.html",
+    "main.f855e6bc.css.map": "/argebarge.github.io/github_page/static/css/main.f855e6bc.css.map",
+    "main.be41ed14.js.map": "/argebarge.github.io/github_page/static/js/main.be41ed14.js.map",
+    "453.68f5290a.chunk.js.map": "/argebarge.github.io/github_page/static/js/453.68f5290a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f2a06740.js"
+    "static/js/main.be41ed14.js"
   ]
 }
