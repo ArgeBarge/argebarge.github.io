@@ -1,10 +1,51 @@
 .App {
   text-align: center;
+  border-radius: 8px;
+  background-color: #8ecae6;
+}
+
+.ProjectContainer {
+  margin: auto;
+  height: 300px;
+  width: 90%;
+  border-radius: 8px;
+  background-color: #219ebc;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.ProjectImage {
+  width: 50%;
+  height: 80%; 
+  float: left;
+}
+
+.ProjectImage img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  vertical-align: middle;
+}
+
+.ProjectDescription {
+  float: right;
+  width: 50%;
+  height: 80%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.App-button {
+  border-radius: 8px;
+  font-size: 16px;
+  padding: 14px 40px;
+  float: left;
+  display: inline;
+  width: 49%;
+  background-color: #023047;
 }
 
 @media (prefers-reduced-motion: no-preference) {
