@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6424e67.css",
-    "main.js": "/static/js/main.e7ae215d.js",
+    "main.css": "/static/css/main.19a09e68.css",
+    "main.js": "/static/js/main.5ba9f3c5.js",
     "static/js/453.68f5290a.chunk.js": "/static/js/453.68f5290a.chunk.js",
     "static/media/graphics_scene.png": "/static/media/graphics_scene.c820536deeb0fed3e405.png",
     "static/media/app_1.png": "/static/media/app_1.d1a86a2e02c3346224ba.png",
     "static/media/app_2.png": "/static/media/app_2.a04bc8e4d9992b95e63c.png",
     "static/media/tower_defence.png": "/static/media/tower_defence.702dc335590a6f5e650c.png",
     "index.html": "/index.html",
-    "main.d6424e67.css.map": "/static/css/main.d6424e67.css.map",
-    "main.e7ae215d.js.map": "/static/js/main.e7ae215d.js.map",
+    "static/media/github.svg": "/static/media/github.e7ab8675a2cbadea548cafe724065b9e.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
+    "main.19a09e68.css.map": "/static/css/main.19a09e68.css.map",
+    "main.5ba9f3c5.js.map": "/static/js/main.5ba9f3c5.js.map",
     "453.68f5290a.chunk.js.map": "/static/js/453.68f5290a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6424e67.css",
-    "static/js/main.e7ae215d.js"
+    "static/css/main.19a09e68.css",
+    "static/js/main.5ba9f3c5.js"
   ]
 }
