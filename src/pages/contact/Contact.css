@@ -1,0 +1,6 @@
+.connection-button {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 40px;
+    transform: scale(2);
+}
